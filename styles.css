@@ -5,8 +5,7 @@ body{
 	display:flex;
 }
 .header{
-	display:flex;
-	justify-content:center;
+	text-align:center;
 	padding:10px;
 	background-color:#011e29;
 	color:white;
@@ -18,8 +17,7 @@ body{
 	border-radius:30px;
 }
 .pictorial-news-section{
-	justify-content:center;
-	flex-direction:column;
+	text-align:center;
 	background-color:white;
 	border-radius:30px;
 	width:30vw;
